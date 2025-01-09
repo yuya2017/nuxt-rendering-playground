@@ -5,10 +5,6 @@
   </div>
 </template>
 
-<script setup>
-/* 必要に応じてスクリプトを追加 */
-</script>
-
 <style scoped>
 h1 {
   color: #2c3e50;
